@@ -1,0 +1,1 @@
+Learnt some sneaky topics regarding web development and JS in this task.
