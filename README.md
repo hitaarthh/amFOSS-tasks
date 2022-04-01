@@ -16,26 +16,26 @@ because of amFOSS club.
 in the field of FrontEnd Development, (HTML,CSS,JS to somewhat a beginner level).
 
 ⚡️ I'm highly interested in learning Flutter UI development and learnt it to some extent. Check out my [FLutter
-Project](https://github.com/hitaarthh/Flutter-Projects), if you are interested.
+Projects](https://github.com/hitaarthh/Flutter-Projects), if you are interested.
 
 ⚡️ Besides tech i love playing football and games like Call of Duty touch my heart (username: [hitaarthh](), incase you
 wanna team up!).
 
 ## My Daily Task Update Report:
 
-- task0 - Completed.
-- task1 - Completed.
-- task2 - Pending.
-- task3 - Pending.
-- task4 - Pending. 
-- task5 - Pending.
-- task6 - Completed.
-- task7 - Pending.
-- task8 - Completed.
-- task9 - Pending.
-- task10 - Pending.
-- task11 - Completed.
-- task12 - Pending.
-- task13 - Pending.
-- task14 - Completed.
-- task15 - Pending.
+- task0 - ✅
+- task1 - ✅
+- task2 - ❗️Pending❗️
+- task3 - ❗️Pending❗️
+- task4 -❗️Pending❗️ 
+- task5 - ❗️Pending❗️
+- task6 - ✅
+- task7 - ❗️Pending❗️
+- task8 - ✅
+- task9 - ❗️Pending❗️
+- task10 - ❗️Pending❗️
+- task11 - ✅
+- task12 - ❗️Pending❗️
+- task13 - ❗️Pending❗️
+- task14 - ✅
+- task15 - ❗️Pending❗️
