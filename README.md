@@ -32,7 +32,7 @@ wanna team up!).
 - task6 - ✅
 - task7 - ❗️Pending❗️
 - task8 - ✅
-- task9 - ❗️Pending❗️
+- task9 - ✅
 - task10 - ❗️Pending❗️
 - task11 - ✅
 - task12 - ❗️Pending❗️
