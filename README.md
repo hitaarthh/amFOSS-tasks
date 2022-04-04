@@ -34,17 +34,17 @@ wanna team up!).
 
 - [task0](https://github.com/hitaarthh/amFOSS-tasks/tree/main/task0) - ✅
 - [task1](https://github.com/hitaarthh/amFOSS-tasks/tree/main/task1) - ✅
-- task2 - ✅
-- task3 - ❗️Pending❗️
+- [task2](https://github.com/hitaarthh/amFOSS-tasks/tree/main/task2) - ✅
+- task3 -❗Pending❗️
 - task4 -❗️Pending❗️ 
-- task5 - ❗️Pending❗️
+- task5 -❗️Pending❗️
 - [task6](https://github.com/hitaarthh/amFOSS-tasks/tree/main/task6) - ✅
-- task7 - ❗️Pending❗️
+- task7 -❗️Pending❗️
 - [task8](https://github.com/hitaarthh/amFOSS-tasks/tree/main/task8) - ✅
 - [task9](https://github.com/hitaarthh/amFOSS-tasks/tree/main/task9) - ✅
-- task10 - ❗️Pending❗️
+- task10 -❗️Pending❗️
 - [task11](https://github.com/hitaarthh/amFOSS-tasks/tree/main/task11) - ✅
-- task12 - ❗️Pending❗️
-- task13 - ❗️Pending❗️
+- task12 -❗️Pending❗️
+- task13 - ✅
 - [task14](https://github.com/hitaarthh/amFOSS-tasks/tree/main/task11) - ✅
-- task15 - ❗️Pending❗️
+- task15 -❗️Pending❗️
