@@ -30,7 +30,7 @@ wanna team up!).
 ## --> How would you contribute back to the club?🤔
   - In order to contribute to the club I would first like to know how this particular organization works and if i would find some loop holes and voids, then I would be devising methods to eradicate those issues and also try to make approachable in a way which the new Freshers and upcoming students would prefer.
 
-## My Daily Task Report:
+## My Daily Task Report:[Completed 10/11 assigned]
 
 - [task0](https://github.com/hitaarthh/amFOSS-tasks/tree/main/task0) - ✅
 - [task1](https://github.com/hitaarthh/amFOSS-tasks/tree/main/task1) - ✅
