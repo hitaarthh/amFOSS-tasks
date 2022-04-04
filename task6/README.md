@@ -8,6 +8,10 @@
 
 ⚡️ Fun Fact: I have been working on other Simple FLutter projects for now to grasp the idea of Flutter UI Design. Check out my [Flutter Projects](https://github.com/hitaarthh/Flutter-Projects), if you are interested. Feel free to give me your personal suggestions and reviews ✌🏻😇.
 
+<div align="center">
+<img src="https://raw.githubusercontent.com/amfoss/tasks/main/task-6/Demo_UI.gif" height="500">
+</div>
+
 ## Detailed Explanation of Project:
 
 
