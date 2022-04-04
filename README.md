@@ -46,5 +46,5 @@ wanna team up!).
 - [task11](https://github.com/hitaarthh/amFOSS-tasks/tree/main/task11) - ✅
 - task12 -❗️Pending❗️
 - [task13](https://github.com/hitaarthh/amFOSS-tasks/tree/main/task13) - ✅
-- [task14](https://github.com/hitaarthh/amFOSS-tasks/tree/main/task11) - ✅
+- [task14](https://github.com/hitaarthh/amFOSS-tasks/tree/main/task14) - ✅
 - task15 - ❗️Pending❗️
