@@ -101,4 +101,6 @@ cat North.txt East.txt > Location-Coordinate.txt
 ```
 ## Result:
 
-<img src="https://raw.githubusercontent.com/hitaarthh/amFOSS-tasks/main/task2/task2-map.png?token=GHSAT0AAAAAABTEUXUJGEWBYKTCP2MQ5IUCYSUU2UA" height="500">
+<div align="center">
+ <img src="https://raw.githubusercontent.com/hitaarthh/amFOSS-tasks/main/task2/task2-map.png?token=GHSAT0AAAAAABTEUXUJGEWBYKTCP2MQ5IUCYSUU2UA" height="500">
+ </div> 
