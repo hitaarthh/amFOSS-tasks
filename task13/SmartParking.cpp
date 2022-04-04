@@ -1,6 +1,6 @@
 
 #include <Servo.h>
-#include <LiquidCrystal.h>
+#include <LiquidCrystal.h> 
 LiquidCrystal lcd(12, 11, 5, 4, 3, 2); // connected to RS,EN,D4,D5,D6,D7 of LCD display respectively
 Servo myservo;                         // create servo object to control a servo
 
