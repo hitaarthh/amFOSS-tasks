@@ -36,15 +36,15 @@ wanna team up!).
 - [task1](https://github.com/hitaarthh/amFOSS-tasks/tree/main/task1) - ✅
 - [task2](https://github.com/hitaarthh/amFOSS-tasks/tree/main/task2) - ✅
 - task3 -❗Pending❗️
-- task4 -❗️Pending❗️ 
-- task5 -❗️Pending❗️
+- [task4](https://github.com/hitaarthh/amFOSS-tasks/tree/main/task4) - ✅ 
+- [task5](https://github.com/hitaarthh/amFOSS-tasks/tree/main/task5) - ✅
 - [task6](https://github.com/hitaarthh/amFOSS-tasks/tree/main/task6) - ✅
 - task7 -❗️Pending❗️
 - [task8](https://github.com/hitaarthh/amFOSS-tasks/tree/main/task8) - ✅
 - [task9](https://github.com/hitaarthh/amFOSS-tasks/tree/main/task9) - ✅
-- task10 -❗️Pending❗️
+- [task10](https://github.com/hitaarthh/amFOSS-tasks/tree/main/task10) - ✅
 - [task11](https://github.com/hitaarthh/amFOSS-tasks/tree/main/task11) - ✅
 - task12 -❗️Pending❗️
-- task13 - ✅
+- [task13](https://github.com/hitaarthh/amFOSS-tasks/tree/main/task13) - ✅
 - [task14](https://github.com/hitaarthh/amFOSS-tasks/tree/main/task11) - ✅
-- task15 -❗️Pending❗️
+- [task15](https://github.com/hitaarthh/amFOSS-tasks/tree/main/task11) - ❗️Partially Done.✅
